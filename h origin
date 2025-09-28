@@ -1,0 +1,147 @@
+[33mcommit 636d681d6f066353cda0320f7541617dd1031616[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: fyrgi <rositsa.se@gmail.com>
+Date:   Sun Sep 28 15:15:00 2025 +0200
+
+    Initial commit.
+
+[33mcommit b519147af1910eb9da98ea946088930fcd3e026d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: linneaallander <linall482@gmail.com>
+Date:   Mon Sep 22 10:57:06 2025 +0200
+
+    Cleanup before actual workshop
+
+[33mcommit 190ad9347ff658590b91fce73804338db80201d6[m
+Merge: 4a7e01c 11de406
+Author: linneaallander <linall482@gmail.com>
+Date:   Mon Sep 22 10:49:32 2025 +0200
+
+    Merge branch 'main' of https://github.com/juliajak/Pink_programming_workshop_at_Axis
+
+[33mcommit 11de406bf859fb3e76e3ddaa1038e1c8e53a42f1[m
+Merge: e7078ee 2c5c6f2
+Author: evasann <susanne.regnell@gmail.com>
+Date:   Fri Sep 19 15:02:24 2025 +0200
+
+    Merge branch 'main' of https://github.com/juliajak/Pink_programming_workshop_at_Axis
+
+[33mcommit 2c5c6f21686dc9dfe70ee0e326edfc8f85419cd4[m
+Merge: 4905942 00d8505
+Author: malinOnGithub <malineriksson02@gmail.com>
+Date:   Fri Sep 19 14:59:58 2025 +0200
+
+    Merge branch 'main' of https://github.com/juliajak/Pink_programming_workshop_at_Axis
+
+[33mcommit 00d8505c3b23577ade347d015d21333fe2acaf9b[m
+Merge: 3b9d983 0da021d
+Author: SweetpinkJ <josefin.sweetpink@gmail.com>
+Date:   Fri Sep 19 14:56:57 2025 +0200
+
+    Merge branch 'main' of https://github.com/juliajak/Pink_programming_workshop_at_Axis
+    Need to update
+
+[33mcommit e7078ee25418975f072717184060f58ccce09f36[m
+Author: evasann <susanne.regnell@gmail.com>
+Date:   Fri Sep 19 14:55:20 2025 +0200
+
+    itest message
+
+[33mcommit 49059421d61bc52576becfef650946447960fe9d[m
+Merge: 284eb6d 0da021d
+Author: malinOnGithub <malineriksson02@gmail.com>
+Date:   Fri Sep 19 14:46:06 2025 +0200
+
+    Merge branch 'main' of https://github.com/juliajak/Pink_programming_workshop_at_Axis
+    
+    Merge
+
+[33mcommit 0da021d933b872f3605304eff10a4617312efc80[m
+Merge: b5b4d39 596e60a
+Author: your name <your email>
+Date:   Fri Sep 19 14:45:13 2025 +0200
+
+    ny merge Merge branch 'main' of https://github.com/juliajak/Pink_programming_workshop_at_Axis
+
+[33mcommit 3b9d983f8c56be232bb6803de091c412341ddcf2[m
+Author: SweetpinkJ <josefin.sweetpink@gmail.com>
+Date:   Fri Sep 19 14:44:03 2025 +0200
+
+    woop yay
+
+[33mcommit 284eb6dffafb106c3e319aef12921f0089eababf[m
+Author: malinOnGithub <malineriksson02@gmail.com>
+Date:   Fri Sep 19 14:42:48 2025 +0200
+
+    Malin was here
+
+[33mcommit b5b4d39d21e7e01bdf3011c7d3a9d360ab68fb58[m
+Author: your name <your email>
+Date:   Fri Sep 19 14:39:34 2025 +0200
+
+    adding file
+
+[33mcommit 596e60a23c0f881674730240bd236d1676f668ff[m
+Author: jossssaaan <josefine.oder@gmail.com>
+Date:   Fri Sep 19 14:38:35 2025 +0200
+
+    Test push to Git repo
+
+[33mcommit 5b7fd43982dd4eed72cd073923f8733b5034c728[m
+Author: rosita.github@gmail.com <rosita.github@gmail.com>
+Date:   Fri Sep 19 14:32:41 2025 +0200
+
+    add rosven file
+
+[33mcommit 4a7e01c142d9d627d3c75b2e6dc1d1f35364a0c1[m
+Author: linneaallander <linall482@gmail.com>
+Date:   Fri Sep 19 11:46:42 2025 +0200
+
+    test
+
+[33mcommit df4d195ac4e10e84005b44351b5abd69a6d29943[m
+Author: linneaallander <70316878+linneaallander@users.noreply.github.com>
+Date:   Fri Sep 19 11:43:46 2025 +0200
+
+    Create Extra_Arduino_project_link
+    
+    For those with extra time on their hands ;)
+
+[33mcommit b67360ab253c35346184a605dcac627f1f9294cf[m
+Author: linneaallander <linall482@gmail.com>
+Date:   Fri Sep 19 11:34:25 2025 +0200
+
+    Test inlogg
+
+[33mcommit e5d6f3121cb934ffd0f3ab1585c9a46dd4ea7a93[m
+Merge: 78ecd1a bb8d28e
+Author: linneaallander <linall482@gmail.com>
+Date:   Fri Sep 19 11:10:25 2025 +0200
+
+    Merge branch 'main' of https://github.com/juliajak/Pink_programming_workshop_at_Axis
+    
+    new file
+
+[33mcommit 78ecd1a0bce9d64d840c343b231b66b943262758[m
+Author: linneaallander <linall482@gmail.com>
+Date:   Fri Sep 19 11:08:29 2025 +0200
+
+    Windows test
+
+[33mcommit bb8d28e958a03141c3946968c98e88d9dcb81e7d[m
+Author: Linnea Allander <linneaal@axis.com>
+Date:   Fri Sep 19 10:53:14 2025 +0200
+
+    Test commit 2
+
+[33mcommit c80bcd691e7f2ca64d3a9fd6501920344b5df23c[m
+Author: Julia Jakobsson <juliaja@axis.com>
+Date:   Fri Aug 15 10:47:32 2025 +0200
+
+    New commit
+    
+    here is my file
+
+[33mcommit 7f2c3ba275958daf68425b9035a43ec5e61ee032[m
+Author: juliajak <108882279+juliajak@users.noreply.github.com>
+Date:   Fri Aug 15 10:28:03 2025 +0200
+
+    Initial commit
